@@ -1,0 +1,31 @@
+[
+ {
+  "blog_category": "general",
+  "blog_intro": "Professional  Blog",
+  "blogger": "Proegypt",
+  "content": "<p class=\"lead\">We have just starting using ERPNext, the Open Source ERP built for the web and loving it.</p>\n\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>",
+  "content_html": null,
+  "content_md": null,
+  "content_type": "Rich Text",
+  "disable_comments": 0,
+  "disable_feedback": 0,
+  "docstatus": 0,
+  "doctype": "Blog Post",
+  "email_sent": 0,
+  "featured": 0,
+  "hide_cta": 0,
+  "meta_description": "My First Blog",
+  "meta_image": null,
+  "meta_title": "Welcome",
+  "modified": "2022-01-05 09:01:43.057771",
+  "name": "welcome",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "published": 1,
+  "published_on": "2021-12-30",
+  "read_time": 1,
+  "route": "blog/general/welcome",
+  "title": "Welcome"
+ }
+]

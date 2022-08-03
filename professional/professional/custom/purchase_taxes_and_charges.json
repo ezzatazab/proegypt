@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Purchase Taxes and Charges",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2022-01-17 12:35:23.981412",
+   "default_value": null,
+   "doc_type": "Purchase Taxes and Charges",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "description",
+   "idx": 0,
+   "modified": "2022-01-17 12:35:23.981412",
+   "modified_by": "ezzat.orc@gmail.com",
+   "name": "Purchase Taxes and Charges-description-default",
+   "owner": "ezzat.orc@gmail.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "default",
+   "property_type": "Text",
+   "row_name": null,
+   "value": ""
+  }
+ ],
+ "sync_on_migrate": 1
+}

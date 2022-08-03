@@ -1,0 +1,21 @@
+{
+ "attach_print": 0,
+ "channel": "Telegram",
+ "creation": "2022-04-24 13:20:00.203206",
+ "days_in_advance": 0,
+ "docstatus": 0,
+ "doctype": "Telegram Notification",
+ "document_type": "Sales Invoice",
+ "dynamic_recipients": 1,
+ "enabled": 1,
+ "event": "New",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "Add your message here",
+ "modified": "2022-04-24 13:20:00.203206",
+ "modified_by": "ezzat.orc@gmail.com",
+ "module": "Professional",
+ "name": "send",
+ "owner": "ezzat.orc@gmail.com",
+ "subject": "invoice.new"
+}
